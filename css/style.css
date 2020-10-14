@@ -1,0 +1,236 @@
+/*color:#ff9642;*/
+
+.btn {
+  background: #51adcf;
+  background-image: -webkit-linear-gradient(top, #51adcf, #47ceff);
+  background-image: -moz-linear-gradient(top, #51adcf, #47ceff);
+  background-image: -ms-linear-gradient(top, #51adcf, #47ceff);
+  background-image: -o-linear-gradient(top, #51adcf, #47ceff);
+  background-image: linear-gradient(to bottom, #51adcf, #47ceff);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 17px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3eadd6;
+  background-image: -webkit-linear-gradient(top, #3eadd6, #00bbff);
+  background-image: -moz-linear-gradient(top, #3eadd6, #00bbff);
+  background-image: -ms-linear-gradient(top, #3eadd6, #00bbff);
+  background-image: -o-linear-gradient(top, #3eadd6, #00bbff);
+  background-image: linear-gradient(to bottom, #3eadd6, #00bbff);
+  text-decoration: none;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #f6f5f5 ;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  color: white;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  padding-top: 100px;
+}
+
+.interior-top{
+  padding-top: 40px;
+}
+
+span{
+  text-decoration: underline;
+}
+
+p{
+  color: #4c4c4c;
+  font-size: 1.1rem;
+}
+
+.text h2{
+    color: white;
+    font-size: 2.5rem;
+    margin: 0 auto;
+}
+
+h2{
+  font-family: '51adcfMontserrat', sans-serif;
+  color: #51adcf;
+  font-size: 3rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.3rem;
+  color: #51adcf;
+}
+
+.hr{
+  border-style: dotted;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+  border-width: 7px;
+  border-color: #e8e8e8;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.contact-me{
+  padding-top: 100px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.top-container{
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(galaxy.png);
+ background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(galaxy.png);
+ background-size: cover;
+ background-position: center;
+ height: 100vh;
+ background-attachment: fixed;
+}
+
+.top-rocket{
+  position: absolute;
+  right: 160px;
+  top: 300px;
+}
+
+.bottom-rocket{
+  position: absolute;
+  left: 160px;
+  top: 300px;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.profile-img{
+  border-radius: 100%;
+  width: 250px;
+  height: auto;
+}
+
+.html-ph{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.css-ph{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.java-ph{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .web{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+
+  .calisthenics{
+        width: 25%;
+        float: left;
+        margin-right: 30px;
+  }
+
+  .kebab{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+
+  .book{
+    width: 15%;
+  }
+
+  .books{
+    background-color: white;
+    margin: auto;
+    padding-bottom: 1px;
+  }
+
+  .books h4{
+    font-size: 2rem;
+    margin: 50px auto 200px auto;
+    color: #51adcf;
+  }
+  .books h2{
+    padding-top: 100px;
+  }
+
+
+
+.solid{
+  border-style: solid;
+  border-width: 5px;
+  width: 7%;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 50px;
+  border-color: #51adcf;
+  margin: 0 auto 200px auto;
+}
+
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 200px auto;
+  line-height: 2;
+}
+
+.bottom-container{
+  background-color: #1a1c20;
+  padding: 50px 0 20px;
+}
+
+a{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.fb:hover{
+  color: #3282b8;
+}
+
+.insta:hover{
+  color: #c62a88;
+}
+
+.fiverr:hover{
+  color: #28df99;
+}
+
+.copyright{
+  margin: 50px auto;
+  font-size: 0.75rem;
+  color: white;
+}
